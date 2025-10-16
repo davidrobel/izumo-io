@@ -1,4 +1,4 @@
-# This Week's Tasks
+# 1st Week's Tasks
 ## 1. Environment Setup Checklist
       - [x]   Install VS Code with essential extensions
       - [x]   Configure Terminal (Command Prompt/PowerShell on Windows, Terminal on Mac/Linux)
