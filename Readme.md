@@ -1,4 +1,5 @@
 # Lesson 1- Week's Tasks
+
 ## 1. Environment Setup Checklist
       [x] Install VS Code with essential extensions
       [x] Configure Terminal (Command Prompt/PowerShell on Windows, Terminal on Mac/Linux)
@@ -6,6 +7,7 @@
       [x] Create GitHub account and first repository
       [x] Install Ollama and download a model
       [ ] Set up Gemini CLI with API access
+
 ## 2. Project Foundation
       [x] Create project directory structure
       [x] Initialize Git repository
@@ -42,3 +44,46 @@
       [ ]  Fixed chat input bar at bottom
       [ ]  Scrollable message area
       [ ]  Professional button styling with hover effects
+
+## Lesson 04: Introduction to JavaScript Fundamentals
+
+# 1. JavaScript Fundamentals
+      [ ]  Learn how to link JavaScript to HTML
+      [ ]  Understand variables (const vs let)
+      [ ]  Practice writing functions
+      [ ]  Explore the browser console for debugging
+# 2. Interactive Chatbot Implementation
+      [ ]  Select DOM elements (input, button, message area)
+      [ ]  Add click event listener to send button
+      [ ]  Add Enter key listener for message sending
+      [ ]  Capture user input value
+      [ ]  Create and append message elements to display area
+      [ ]  Clear input field after sending
+      [ ]  Scroll to bottom when new messages added
+# 3. User Experience Enhancements
+      [ ]  Prevent empty messages from being sent
+      [ ]  Add visual feedback for user actions
+      [ ]  Display user messages on the right side
+      [ ]  Prepare structure for AI responses (left side)
+      [ ]  Handle edge cases (long messages, special characters)
+
+## Lesson 05: Advanced JavaScript & API Concepts
+
+# 1. Async JavaScript Fundamentals
+      [ ]  Understand the event loop and async behavior
+      [ ]  Learn about Promises and how they work
+      [ ]  Master async/await syntax
+      [ ]  Practice error handling with try/catch
+# 2. API Integration Preparation
+      [ ]  Learn about REST APIs and HTTP methods
+      [ ]  Understand request/response cycle
+      [ ]  Practice with fetch() on public APIs
+      [ ]  Handle JSON data parsing
+# 3. Chatbot Enhancement
+      [ ]  Create mock API response function (simulates AI)
+      [ ]  Add loading indicator while "thinking"
+      [ ]  Display mock AI responses in chat
+      [ ]  Implement error handling for failed requests
+      [ ]  Add timeout handling for slow responses
+
+      
