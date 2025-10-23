@@ -12,3 +12,35 @@ body {
     background-color: #b69a9a;
 
 }
+
+.div-chat {
+    width: 600px;
+    height: 60px;
+    background-color: #ffffff;
+    border: #1a1a1a 1px;
+    border-radius: 6px;
+    margin-left: 30px;
+    padding: 10px;
+
+}
+
+input[type="text"] {
+    height: 25px;
+    width: 90%;
+    border-radius: 6px;
+    padding-left: 4px;
+    border: 1px solid #ccc;
+    transition: 0.5s;
+    outline: none;
+}
+
+input[type="text"]:hover {     
+    transition: all 0.5s ease;
+    box-shadow: 0 0 5px #2966e7;
+}
+
+input[type="text"]:focus {
+    border: 1px solid #2966e7;
+}
+
+
