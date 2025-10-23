@@ -26,6 +26,7 @@
       [ ]  Creating a chat interface layout
       [x]  Element IDs for JavaScript targeting
       [x]  Placeholder text
+      [x]  Learn Git, github (push, pull, commit, branch, PR, how work using this tool)
 
 ## Lesson 03 - Code Reference
 
